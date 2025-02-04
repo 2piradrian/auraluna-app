@@ -1,0 +1,35 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Auraluna</string>
+
+    <!-- Categories -->
+    <string name="distress">Angustia</string>
+    <string name="anxiety">Ansiedad</string>
+    <string name="stress">Estres</string>
+    <string name="happiness">Felicidad</string>
+    <string name="anger">Enojo</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_community">Comunidad</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Conectá con tu estado de ánimo</string>
+    <string name="home_takeyourtime">Tomate tu tiempo</string>
+
+    <!-- Favorites Screen -->
+    <string name="favorites_title">Tus favoritos</string>
+
+    <!-- Community Screen -->
+
+    <!-- Players Screen -->
+    <string name="player_pause">Pausar</string>
+    <string name="player_play">Reproducir</string>
+
+    <!-- Errors -->
+    <string name="error_loading_audios">Error cargando audios</string>
+    <string name="error_audio_not_found">Audio no encontrado</string>
+
+
+</resources>
